@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Figma, Adobe Illustrator and Canva**
 
-- 📫 How to reach me **therajkumarofficial@gmail.com**
+- 📫 How to reach me [✉](therajkumarofficial@gmail.com)
 
 - 📄 Know about my experiences [-Harrxit-](https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link)
 
