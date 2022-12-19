@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **therajkumarofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link](https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link)
+- 📄 Know about my experiences [-Harrxit-](https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link)
 
 - ⚡ Fun fact about me **A hardcore Chai-o-holic**
 
