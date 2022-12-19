@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Bootstrap and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harrxit](https://github.com/harrxit)
+- 👨‍💻 All of my projects are available at [Harrxit](https://github.com/harrxit)
 
 - 💬 Ask me about **Figma, Adobe Illustrator and Canva**
 
