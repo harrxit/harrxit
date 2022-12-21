@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [-Harrxit-](https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link)
 
-- ⚡ Fun fact about me **A hardcore Chai-o-holic**
+- ⚡ Fun fact about me : **A hardcore Chai-o-holic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
