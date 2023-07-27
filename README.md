@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Raj Kumar a.k.a Harrxit</h1>
-<h3 align="center">A passionate frontend (UI/UX forte) developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrxit&label=Profile%20views&color=0e75b6&style=flat" alt="harrxit" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Caterist (Vintage-Caterers))](https://github.com/harrxit/Vintage-Caterers)
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS and much more**
+- 🌱 I’m currently learning **React JS, Tailwind CSS and GraphQL**
 
-- 🤝 I’m looking for help with **Bootstrap and React**
+- 🤝 I’m looking for help with **Full stack development**
 
 - 👨‍💻 All of my projects are available at [Harrxit](https://github.com/harrxit)
 
-- 💬 Ask me about **Figma, Adobe Illustrator and Canva**
+- 💬 Ask me about **Design, Art and Airplanes✈**
 
-- 📫 How to reach me [✉](therajkumarofficial@gmail.com)
+- 📫 Reach me [✉](therajkumarofficial@gmail.com)
 
 - 📄 Know about my experiences [-Harrxit-](https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link)
 
