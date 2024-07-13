@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/harrxit" target="blank"><img src="https://img.shields.io/twitter/follow/harrxit?logo=twitter&style=for-the-badge" alt="harrxit" /></a> </p>
 
-- 🔭 I’m currently working on [Caterist (Vintage-Caterers))](https://github.com/harrxit/Vintage-Caterers)
+- 🔭 I’m currently working on Gen AI Based Travel Booking assistant
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS and GraphQL**
+- 🌱 I’m currently learning **React JS, Gen AI (Along with RAG,AWS Bedrock + Knowladge bases)**
 
-- 🤝 I’m looking for help with **Full stack development**
+- 🤝 I’m looking for help with **Retrieval Augumented Generative**
 
 - 👨‍💻 All of my projects are available at [Harrxit](https://github.com/harrxit)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [-Harrxit-](https://drive.google.com/file/d/1Bmz0JMKgG3aAN3pGCmSTYvioqMizPKPu/view?usp=share_link)
 
-- ⚡ Fun fact about me : **A hardcore Chai-o-holic**
+- ⚡ Fun fact about me : **A Chai-o-holic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
